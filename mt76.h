@@ -18,7 +18,7 @@
 
 #define MT_TX_RING_SIZE     256
 #define MT_MCU_RING_SIZE    32
-#define MT_RX_BUF_SIZE      70
+#define MT_RX_BUF_SIZE      100
 #define MT_SKB_HEAD_LEN     128
 
 struct mt76_dev;
